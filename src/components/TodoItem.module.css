@@ -1,0 +1,10 @@
+.todoitem {
+  margin: auto;
+  /* width: 50%; */
+  border: 1px dashed gray;
+  padding: 10px;
+}
+
+h5 {
+  color: gray;
+}
